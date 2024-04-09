@@ -299,102 +299,102 @@
     </message>
     <message>
         <source>Delete Driving Data</source>
-        <translation type="unfinished"></translation>
+        <translation>删除驾驶数据</translation>
     </message>
     <message>
         <source>DELETE</source>
-        <translation type="unfinished"></translation>
+        <translation>删除</translation>
     </message>
     <message>
         <source>This button provides a swift and secure way to permanently delete all stored driving footage and data from your device. Ideal for maintaining privacy or freeing up space.</source>
-        <translation type="unfinished"></translation>
+        <translation>此按钮提供了一种快速、安全的方式，可以从您的设备中永久删除所有存储的驾驶录像和数据。非常适合维护隐私或释放空间。</translation>
     </message>
     <message>
         <source>Are you sure you want to permanently delete all of your driving footage and data?</source>
-        <translation type="unfinished"></translation>
+        <translation>您确定要永久删除所有驾驶录像和数据吗？</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>删除</translation>
     </message>
     <message>
         <source>Delete Toggle Storage Data</source>
-        <translation type="unfinished"></translation>
+        <translation>删除切换数据</translation>
     </message>
     <message>
         <source>This button provides a swift and secure way to permanently delete all long term stored toggle settings. Ideal for maintaining privacy or freeing up space.</source>
-        <translation type="unfinished"></translation>
+        <translation>此按钮提供了一种快速而安全的方式来永久删除所有长期存储的切换设置。非常适合维护隐私或释放空间。</translation>
     </message>
     <message>
         <source>Are you sure you want to permanently delete all of your long term toggle settings storage?</source>
-        <translation type="unfinished"></translation>
+        <translation>您确定要永久删除所有长期切换设置存储吗？</translation>
     </message>
     <message>
         <source>Backup</source>
-        <translation type="unfinished"></translation>
+        <translation>备份</translation>
     </message>
     <message>
         <source>Restore</source>
-        <translation type="unfinished"></translation>
+        <translation>还原</translation>
     </message>
     <message>
         <source>Name your backup</source>
-        <translation type="unfinished"></translation>
+        <translation>备份名</translation>
     </message>
     <message>
         <source>Select a backup to delete</source>
-        <translation type="unfinished"></translation>
+        <translation>选择要删除的备份</translation>
     </message>
     <message>
         <source>Are you sure you want to delete this backup?</source>
-        <translation type="unfinished"></translation>
+        <translation>是否确定要删除此备份？</translation>
     </message>
     <message>
         <source>Select a restore point</source>
-        <translation type="unfinished"></translation>
+        <translation>选择还原点</translation>
     </message>
     <message>
         <source>Are you sure you want to restore this version of FrogPilot?</source>
-        <translation type="unfinished"></translation>
+        <translation>您确定要恢复此版本的FrogPilot吗？</translation>
     </message>
     <message>
         <source>Are you sure you want to restore this toggle backup?</source>
-        <translation type="unfinished"></translation>
+        <translation>是否确实要还原此切换备份？</translation>
     </message>
     <message>
         <source>Flash Panda</source>
-        <translation type="unfinished"></translation>
+        <translation>刷写Panda</translation>
     </message>
     <message>
         <source>FLASH</source>
-        <translation type="unfinished"></translation>
+        <translation>刷写</translation>
     </message>
     <message>
         <source>Are you sure you want to flash the Panda?</source>
-        <translation type="unfinished"></translation>
+        <translation>你确定要刷写Panda吗？</translation>
     </message>
     <message>
         <source>Flash</source>
-        <translation type="unfinished"></translation>
+        <translation>刷写</translation>
     </message>
 </context>
 <context>
     <name>DriveStats</name>
     <message>
         <source>Drives</source>
-        <translation type="unfinished"></translation>
+        <translation>驾驶</translation>
     </message>
     <message>
         <source>Hours</source>
-        <translation type="unfinished"></translation>
+        <translation>小时</translation>
     </message>
     <message>
         <source>ALL TIME</source>
-        <translation type="unfinished"></translation>
+        <translation>全部</translation>
     </message>
     <message>
         <source>PAST WEEK</source>
-        <translation type="unfinished"></translation>
+        <translation>过去一周</translation>
     </message>
     <message>
         <source>FROGPILOT</source>
@@ -556,7 +556,7 @@
     </message>
     <message>
         <source>NVMe drive not mounted.</source>
-        <translation>NVMe固态硬盘未被挂载。</translation>
+        <translation>NVMe固态硬盘未被挂载，也有可能是未安装。</translation>
     </message>
     <message>
         <source>Unsupported NVMe drive detected. Device may draw significantly more power and overheat due to the unsupported NVMe.</source>
@@ -644,7 +644,7 @@
     </message>
     <message>
         <source>24/7 LTE connectivity</source>
-        <translation>全天候 LTE 連線</translation>
+        <translation>全天候 LTE 连线</translation>
     </message>
     <message>
         <source>Turn-by-turn navigation</source>
@@ -757,7 +757,7 @@ This may take up to a minute.</source>
     </message>
     <message>
         <source>System reset triggered. Press confirm to erase all content and settings. Press cancel to resume boot.</source>
-        <translation type="unfinished"></translation>
+        <translation>系统重置已触发。按confirm可擦除所有内容和设置。按Cancel继续引导。</translation>
     </message>
 </context>
 <context>
@@ -788,19 +788,19 @@ This may take up to a minute.</source>
     </message>
     <message>
         <source>Controls</source>
-        <translation type="unfinished"></translation>
+        <translation>控制</translation>
     </message>
     <message>
         <source>Navigation</source>
-        <translation type="unfinished"></translation>
+        <translation>导航</translation>
     </message>
     <message>
         <source>Vehicles</source>
-        <translation type="unfinished"></translation>
+        <translation>车辆</translation>
     </message>
     <message>
         <source>Visuals</source>
-        <translation type="unfinished"></translation>
+        <translation>视觉</translation>
     </message>
 </context>
 <context>
@@ -985,7 +985,7 @@ This may take up to a minute.</source>
     </message>
     <message>
         <source>MEMORY</source>
-        <translation type="unfinished"></translation>
+        <translation>内存</translation>
     </message>
 </context>
 <context>
@@ -1064,23 +1064,23 @@ This may take up to a minute.</source>
     </message>
     <message>
         <source>Updates are only downloaded while the car is off or in park.</source>
-        <translation type="unfinished"></translation>
+        <translation>更新仅在汽车熄火或停车时下载。</translation>
     </message>
     <message>
         <source>Manually</source>
-        <translation type="unfinished"></translation>
+        <translation>手动</translation>
     </message>
     <message>
         <source>Daily</source>
-        <translation type="unfinished"></translation>
+        <translation>每天</translation>
     </message>
     <message>
         <source>Weekly</source>
-        <translation type="unfinished"></translation>
+        <translation>每周</translation>
     </message>
     <message>
         <source>Update Scheduler</source>
-        <translation type="unfinished"></translation>
+        <translation>更新计划</translation>
     </message>
     <message>
         <source>Choose the frequency to automatically update FrogPilot.
@@ -1092,19 +1092,19 @@ Weekly updates start at midnight every Sunday.</source>
     </message>
     <message>
         <source>Update Time</source>
-        <translation type="unfinished"></translation>
+        <translation>更新时间</translation>
     </message>
     <message>
         <source>Select a time to automatically update</source>
-        <translation type="unfinished"></translation>
+        <translation>选择自动更新的时间</translation>
     </message>
     <message>
         <source>Error Log</source>
-        <translation type="unfinished"></translation>
+        <translation>错误日志</translation>
     </message>
     <message>
         <source>VIEW</source>
-        <translation type="unfinished">查看</translation>
+        <translation>查看</translation>
     </message>
 </context>
 <context>
@@ -1370,7 +1370,7 @@ Weekly updates start at midnight every Sunday.</source>
     </message>
     <message>
         <source>Uploading disabled</source>
-        <translation type="unfinished"></translation>
+        <translation>停用上传</translation>
     </message>
     <message>
         <source>Training data wont be pulled periodically until you disable the &apos;Disable Uploading&apos; toggle</source>
